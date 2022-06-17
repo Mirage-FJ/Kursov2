@@ -1,0 +1,14 @@
+D:\LAB\2.4\Курсова\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Form_Exam.csproj.AssemblyReference.cache
+D:\LAB\2.4\Курсова\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Form_Exam.csproj.SuggestedBindingRedirects.cache
+D:\LAB\2.4\Курсова\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Form_Exam.csproj.ResolveComReference.cache
+D:\LAB\2.4\Курсова\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\LAB\2.4\Курсова\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\LAB\2.4\Курсова\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\LAB\2.4\Курсова\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Form_Exam.csproj.GenerateResource.cache
+D:\LAB\2.4\Курсова\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Form_Exam.csproj.CoreCompileInputs.cache
+D:\LAB\2.4\Курсова\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\1.doc
+D:\LAB\2.4\Курсова\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\`.exe.config
+D:\LAB\2.4\Курсова\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\`.exe
+D:\LAB\2.4\Курсова\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\`.pdb
+D:\LAB\2.4\Курсова\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\`.exe
+D:\LAB\2.4\Курсова\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\`.pdb
